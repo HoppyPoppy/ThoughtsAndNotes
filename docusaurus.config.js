@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Thoughts And ßNotes',
+  title: 'Thoughts And Notes',
   tagline: 'Personal technical notes and experiments',
   favicon: 'img/favicon.ico',
 

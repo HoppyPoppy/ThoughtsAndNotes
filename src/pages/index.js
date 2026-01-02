@@ -4,20 +4,21 @@ import Layout from '@theme/Layout';
 export default function Home() {
   return (
     <Layout title="Home">
-      <main style={{ padding: '2rem', maxWidth: '800px', margin: '0 auto' }}>
-        <h1>MyPage</h1>
+      <main style={{ padding: '2rem', maxWidth: '900px', margin: '0 auto' }}>
+        <h1>Thoughts & Notes</h1>
 
         <p>
-          This site is a personal technical knowledge base.
+          このサイトは、個人の思考や技術的なメモを整理し、
+          将来参照できる形で残しておくための場所です。
         </p>
 
         <p>
-          The purpose of this site is to organize and preserve information
-          for long-term reference.
+          体系的な解説や完成した記事ではなく、
+          試行錯誤の過程や途中経過も含めて記録します。
         </p>
 
         <p>
-          Articles and notes will be added gradually.
+          内容は随時更新・修正されます。
         </p>
       </main>
     </Layout>
